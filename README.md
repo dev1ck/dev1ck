@@ -1,9 +1,9 @@
 ## 안녕하세요, Devick 입니다 👋
 
-#### C/C++ Developer / Web Back-end Developer
+#### C/C++ Security/Network Developer
 
 <aside>
-💡 C++ 네트워크 개발자 입니다.
+💡 C++ 보안/네트워크 개발자 입니다.
 </aside>
 
 <br/>
